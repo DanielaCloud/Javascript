@@ -1,1 +1,0 @@
-console.log("mensaje desde el head de html")

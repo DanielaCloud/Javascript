@@ -1,1 +1,0 @@
-alert ("Ni modos, perdiste! Tienes 0!")
